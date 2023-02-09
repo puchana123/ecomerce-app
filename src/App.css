@@ -388,6 +388,15 @@ footer .input-group-text {
   font-size: 13px;
   color: var(--color-777777);
 }
+
+.product-title {
+  color: var(--color-131921);
+}
+
+.icon-link {
+  border-color: transparent;
+  background-color: transparent;
+}
 /* Product card End Here */
 
 /* Special Product */
@@ -810,3 +819,28 @@ footer .input-group-text {
 }
 
 /* Cart Page End Here */
+
+/* Shipping page */
+
+.total {
+  font-size: 16px;
+  color: var(--color-1c1c1b);
+}
+
+.total-price {
+  font-size: 20px;
+  color: var(--color-1c1c1b);
+  font-weight: 400;
+}
+
+.subtotal {
+  font-size: 14px;
+  color: var(--color-777777);
+}
+
+.subtotal-price {
+  font-size: 16px;
+  color: var(--color-1c1c1b);
+}
+
+/* Shipping page End here*/
